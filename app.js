@@ -88,4 +88,4 @@ app.get("/",function (req,res) {
 
 
 
-app.listen(port,()=>{console.log("server is ready at "+port)});
+app.listen(port,()=>{console.log("admin:cristiano@admin.com password :Cristiano@7   server is ready at "+port)});
